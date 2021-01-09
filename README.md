@@ -17,6 +17,7 @@
 
 
 <img src="https://img.shields.io/badge/KakaoMail-FFCD00?style=flat-square&logo=KaKao&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 <!--
 **JunHo-YH/JunHo-YH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
