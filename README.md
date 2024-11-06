@@ -1,5 +1,5 @@
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jackson)](https://velog-readme-stats.vercel.app/api/redirect?name=jackson)
+
 
 
 
@@ -10,7 +10,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jackson)](https://velog.io/@jackson)
 
 
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jackson)](https://velog-readme-stats.vercel.app/api/redirect?name=jackson)
 
 
 
