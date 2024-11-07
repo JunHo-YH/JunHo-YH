@@ -6,11 +6,16 @@
 
 
 
+<div style="display: flex; align-items: stretch; justify-content: center; gap: 10px;">
+  <a href="https://velog.io/@jackson" style="flex: 1; display: flex; justify-content: center; align-items: stretch;">
+    <img src="https://velog-readme-stats.vercel.app/api/list?name=jackson" alt="Velog's GitHub stats" style="width: 100%; object-fit: cover;" />
+  </a>
+  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=jackson" style="flex: 1; display: flex; justify-content: center; align-items: stretch;">
+    <img src="https://velog-readme-stats.vercel.app/api?name=jackson" alt="Velog's GitHub stats" style="width: 100%; object-fit: cover;" />
+  </a>
+</div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jackson)](https://velog.io/@jackson)
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jackson)](https://velog-readme-stats.vercel.app/api/redirect?name=jackson)
 
 
 
